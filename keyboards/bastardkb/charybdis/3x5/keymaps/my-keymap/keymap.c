@@ -48,7 +48,7 @@ static uint16_t auto_pointer_layer_timer = 0;
 #define ESC_MED LT(LAYER_MEDIA, KC_ESC)
 #define SPC_NAV LT(LAYER_NAVIGATION, KC_ENT)
 #define TAB_FUN LT(LAYER_FUNCTION, KC_TAB)
-#define ENT_SYM LT(LAYER_SYMBOLS, KC_SPC)
+#define ENT_SYM LT(LAYER_SYMBOLS, KC_SPC) //
 #define BSP_NUM LT(LAYER_NUMERAL, KC_BSPC)
 #define _L_PTR(KC) LT(LAYER_POINTER, KC)
 
